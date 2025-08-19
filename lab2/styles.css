@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+h1 {
+    margin: 20px;
+}
+
+#map {
+    height: 80vh;
+    width: 100%;
+    margin: 0 auto;
+}
+
+input[type=range] {
+    width: 80%;
+    margin: 20px;
+}
+
