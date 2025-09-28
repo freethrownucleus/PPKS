@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#controls {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+#controls label {
+    margin: 0 10px;
+}
+
+#slider-controls {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
